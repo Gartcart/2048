@@ -21,8 +21,7 @@ To determine the value of each game state during the Minimax search, an evaluati
 
 ## **Credits**
 
-This project is inspired by the original 2048 game created by Gabriele Cirulli. The AI implementation is based on concepts from artificial intelligence and game theory. Also special thanks to WebDev Simplified and Kenny Yip coding on Youtube for providing
-excellent explanations on coding the 2048 base clone.
+This project is inspired by the original 2048 game created by Gabriele Cirulli. The AI implementation is based on concepts from artificial intelligence and game theory. Also special thanks to WebDev Simplified for providing the Youtube video used to create the 2048 clone. Additional changes to this code are included in the in-file comments.
 
 ## **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
