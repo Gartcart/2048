@@ -8,7 +8,7 @@ AI Implementation (In Progress)
 
 The AI implementation is currently in progress. I am actively working on integrating the Minimax algorithm with Alpha-Beta Pruning into the game logic to enable intelligent decision-making by the computer player.
 
-                                               **AI COMPONENTS**
+                                                 **AI COMPONENTS**
 ## **1. Minimax Algorithm**
 
 The Minimax algorithm is a decision-making algorithm commonly used in two-player turn-based games. It explores the game tree to determine the best move by minimizing the possible loss while maximizing the potential gain. In the context of 2048, the AI will simulate future game states for each possible move and select the move that leads to the highest score.
