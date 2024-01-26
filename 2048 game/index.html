@@ -7,10 +7,19 @@
   <title>Document</title>
   <link rel="stylesheet" href="styles.css">
   <script src="script.js" type="module"></script>
-  <script src="ai.js" type="module"></script>
 </head>
 <body>
   <div id="game-board"></div>
   <button class="ai-button">Let AI Play?</button>
+  <script src="ai-player/ai.js" type="module"></script>
+    <script>
+        const aiButton = document.getElementById("ai-button");
+        aiButton.addEventListener("click", () => {
+            const move = makeRandomMove();
+            if (move) {
+                handleInput({ key: move });
+            }
+        });
+    </script>
 </body>
 </html>
