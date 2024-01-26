@@ -1,7 +1,7 @@
 ## ** 2048 Clone with Minimax Algorithm and Alpha-Beta Pruning **
 
 This is a repository containing a clone of the popular game 2048, implemented in Python. What makes this project unique is its incorporation of AI algorithms, specifically Minimax with Alpha-Beta Pruning, to allow the game to be played automatically by the computer.
-About the Project
+## **About the Project**
 
 The primary goal of this project is to showcase the implementation of artificial intelligence techniques in playing the game of 2048. By utilizing Minimax with Alpha-Beta Pruning, we aim to create an AI that can make optimal moves in the game, achieving higher scores and potentially winning the game.
 AI Implementation (In Progress)
