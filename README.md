@@ -8,13 +8,13 @@ AI Implementation (In Progress)
 
 The AI implementation is currently in progress. We are actively working on integrating the Minimax algorithm with Alpha-Beta Pruning into the game logic to enable intelligent decision-making by the computer player.
 Components of the AI
-1. Minimax Algorithm
+## **1. Minimax Algorithm**
 
 The Minimax algorithm is a decision-making algorithm commonly used in two-player turn-based games. It explores the game tree to determine the best move by minimizing the possible loss while maximizing the potential gain. In the context of 2048, the AI will simulate future game states for each possible move and select the move that leads to the highest score.
-2. Alpha-Beta Pruning
+## **2. Alpha-Beta Pruning**
 
 Alpha-Beta Pruning is an optimization technique used with the Minimax algorithm to reduce the number of nodes evaluated in the game tree. By pruning branches of the tree that are determined to be irrelevant to the final decision, Alpha-Beta Pruning can significantly improve the efficiency of the search process, allowing for deeper exploration of the game tree within a reasonable time frame.
-3. Evaluation Function
+## **3. Evaluation Function**
 
 To determine the value of each game state during the Minimax search, an evaluation function is required. This function assigns a numerical value to each game state based on various factors such as the arrangement of tiles, the presence of high-value tiles, and the potential for future merges. The AI uses this evaluation function to assess the desirability of each possible move.
 How to Contribute
