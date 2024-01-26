@@ -1,5 +1,6 @@
 import Grid from "./Grid.js"
 import Tile from "./Tile.js"
+import { simulateKeyPress } from './ai-player/ai.js'
 
 const gameBoard = document.getElementById("game-board")
 
@@ -133,3 +134,4 @@ function canMove(cells) {
     })
   })
 }
+
