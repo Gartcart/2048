@@ -1,4 +1,4 @@
-2048 Clone with Minimax Algorithm and Alpha-Beta Pruning
+## ** 2048 Clone with Minimax Algorithm and Alpha-Beta Pruning **
 
 This is a repository containing a clone of the popular game 2048, implemented in Python. What makes this project unique is its incorporation of AI algorithms, specifically Minimax with Alpha-Beta Pruning, to allow the game to be played automatically by the computer.
 About the Project
@@ -28,12 +28,12 @@ To get started with the game, follow these steps:
     Ensure you have Python installed.
     Navigate to the project directory and run python game.py to start the game.
 
-Credits
+## **Credits**
 
 This project is inspired by the original 2048 game created by Gabriele Cirulli. The AI implementation is based on concepts from artificial intelligence and game theory. Also special thanks to WebDev Simplified and Kenny Yip coding on Youtube for providing
 excellent explanations on coding the 2048 base clone.
 
-License
+## **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Note: This README will be updated as the AI implementation progresses. Stay tuned for further developments!
