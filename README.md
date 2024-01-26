@@ -18,10 +18,7 @@ Alpha-Beta Pruning is an optimization technique used with the Minimax algorithm 
 ## **3. Evaluation Function**
 
 To determine the value of each game state during the Minimax search, an evaluation function is required. This function assigns a numerical value to each game state based on various factors such as the arrangement of tiles, the presence of high-value tiles, and the potential for future merges. The AI uses this evaluation function to assess the desirability of each possible move.
-How to Contribute
 
-Contributions to this project are welcome! If you're interested in helping with the AI implementation or have ideas for improving the game mechanics, feel free to fork the repository, make your changes, and submit a pull request.
-Getting Started
 
 To get started with the game, follow these steps:
 
