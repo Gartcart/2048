@@ -19,12 +19,6 @@ Alpha-Beta Pruning is an optimization technique used with the Minimax algorithm 
 To determine the value of each game state during the Minimax search, an evaluation function is required. This function assigns a numerical value to each game state based on various factors such as the arrangement of tiles, the presence of high-value tiles, and the potential for future merges. The AI uses this evaluation function to assess the desirability of each possible move.
 
 
-To get started with the game, follow these steps:
-
-    Clone the repository to your local machine.
-    Ensure you have Python installed.
-    Navigate to the project directory and run python game.py to start the game.
-
 ## **Credits**
 
 This project is inspired by the original 2048 game created by Gabriele Cirulli. The AI implementation is based on concepts from artificial intelligence and game theory. Also special thanks to WebDev Simplified and Kenny Yip coding on Youtube for providing
