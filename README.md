@@ -6,8 +6,9 @@ This is a repository containing a clone of the popular game 2048, implemented in
 The primary goal of this project is to showcase the implementation of artificial intelligence techniques in playing the game of 2048. By utilizing Minimax with Alpha-Beta Pruning, we aim to create an AI that can make optimal moves in the game, achieving higher scores and potentially winning the game.
 AI Implementation (In Progress)
 
-The AI implementation is currently in progress. We are actively working on integrating the Minimax algorithm with Alpha-Beta Pruning into the game logic to enable intelligent decision-making by the computer player.
-Components of the AI
+The AI implementation is currently in progress. I am actively working on integrating the Minimax algorithm with Alpha-Beta Pruning into the game logic to enable intelligent decision-making by the computer player.
+
+## **AI COMPONENTS**
 ## **1. Minimax Algorithm**
 
 The Minimax algorithm is a decision-making algorithm commonly used in two-player turn-based games. It explores the game tree to determine the best move by minimizing the possible loss while maximizing the potential gain. In the context of 2048, the AI will simulate future game states for each possible move and select the move that leads to the highest score.
