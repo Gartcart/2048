@@ -23,6 +23,29 @@
     padding: var(--cell-gap);
     position: relative;
   }
+
+  /* Added AI play button */
+.ai-button {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1; 
+  margin-bottom: 20px; 
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff; 
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.ai-button:hover {
+  background-color: #0056b3; 
+}
+
   
   .cell {
     background-color: #AAA;
